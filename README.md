@@ -18,3 +18,5 @@ Then just open index.html and you're done!
 
 ### Notes
 - Shift+S gives you a list of shortcuts to run hubo in fullscreen
+
+![](/screenshot.jpg)
